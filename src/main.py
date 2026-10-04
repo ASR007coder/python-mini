@@ -13,3 +13,5 @@ print("Division:", divide(a, b))
 
 
 print("application finished")
+
+print("Greeting feature added")
